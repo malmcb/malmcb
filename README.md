@@ -1,4 +1,4 @@
-# Hello prospective future employers!
+# Hello prospective employers!
 ## My name is Mallory McBee.
 
 Currently I am working as a Medical Laboratory Scientist. I have gained almost 5 years of experience in the healthcare field since graduating with my Bachelor's in medical laboratory science from West Virginia University in 2017.
