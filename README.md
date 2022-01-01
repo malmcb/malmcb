@@ -17,3 +17,4 @@ You may reach me by email at: mallorymcbee@gmail.com
 
 [My LinkedIn profile](https://www.linkedin.com/in/mallory-mcbee-bbb425139/)
 
+[![Mallory's GitHub stats](https://github-readme-stats.vercel.app/api?username=malmcb)](https://github.com/malmcb/github-readme-stats&show_icons=true&count_private=true)
