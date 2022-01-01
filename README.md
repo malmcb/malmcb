@@ -13,6 +13,8 @@ I recently finished my Master's degree in Data Science from Eastern University. 
     - as well as visualization using Python packages Seaborn and Matplotlib
   - Machine learning techniques such as regression and classification models in Python using Scikit-learn
 
+#### Many of my repositories are private due to University policy at Eastern. If you would like to take a look at them let me know!
+
 In my free time, you can find me cycling around the trails in Pittsburgh 🚴‍♀️, painting at home 🖌️, or playing video games 🎮.
 
 You may reach me by email at: mallorymcbee@gmail.com
