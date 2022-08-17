@@ -1,12 +1,9 @@
-# Hello prospective employers!
+# Hello world!
 ## My name is Mallory McBee.
-
-Currently I am working as a Medical Laboratory Scientist. I have gained almost 5 years of experience in the healthcare field since graduating with my Bachelor's in medical laboratory science from West Virginia University in 2017. As a laboratory scientist, I use problem solving skills and high attention to detail to provide the most accurate laboratory results as possible for patients in the hospital. 
 
 - 🥇 My long term goal is to improve daily tasks and solve issues using AI and machine learning.
 - 🗣️ My goal for 2022 is to hone my programming skills and contribute more to my GitHub profile!
 - 📖 I am currently learning on [Codecademy](https://www.codecademy.com/profiles/malloryMcBee2114687128)
-- 💼 I am open to any opportunity to help me gain experience in the Data Science field!
 
 I recently finished my Master's degree in Data Science from Eastern University. You can find my capstone project on my profile publicly. Other assignments I completed are private due to university guidelines. My degree has taught me....
   - Three programming languages: Python, SQL, and R
