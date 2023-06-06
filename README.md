@@ -1,11 +1,9 @@
-# Hello world!
+# Hello prospective employers!
 ## My name is Mallory McBee.
 
-- 🥇 My long term goal is to improve daily tasks and solve issues using AI and machine learning.
-- 🗣️ My goal for 2022 is to hone my programming skills and contribute more to my GitHub profile!
-- 📖 I am currently learning on [Codecademy](https://www.codecademy.com/profiles/malloryMcBee2114687128)
+I am currently a Data Scientist working in the banking industry.
 
-I recently finished my Master's degree in Data Science from Eastern University. You can find my capstone project on my profile publicly. Other assignments I completed are private due to university guidelines. My degree has taught me....
+I finished my Master's degree in Data Science from Eastern University at the end of 2021. You can find my capstone project on my profile publicly. Other assignments I completed are private due to university guidelines. My degree has taught me....
   - Three programming languages: Python, SQL, and R
   - Data visualization techniques using Tableau and Qlik
     - as well as visualization using Python packages Seaborn and Matplotlib
